@@ -21,13 +21,7 @@ tags: [seed germination, seed]
     + 85.23
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7FAZ3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7FAZ3-F1.png))
-
-* **MolPhase score**
-    + LOC_Os04g12540.1: 0.9052
-
-* **MolPhaseResult**
-    + ![LOC_Os04g12540.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g12540.1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7FAZ3-F1.png)
 
 * **MolPhase score**
     + LOC_Os04g12540.1: 0.90994387

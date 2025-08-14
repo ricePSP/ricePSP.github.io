@@ -21,13 +21,7 @@ tags: [root development, auxin, seed, lateral root, root]
     + 89.48
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5NAT0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5NAT0-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g12070.1: 0.3738
-
-* **MolPhaseResult**
-    + ![LOC_Os01g12070.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g12070.1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5NAT0-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g12070.1: 0.77019202

@@ -25,17 +25,7 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor ]
     + 65.14
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XPM8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XPM8-F1.png))
-
-* **MolPhase score**
-    + LOC_Os04g55920.1: 0.9356
-    + LOC_Os04g55920.2: 0.9164
-    + LOC_Os04g55920.5: 0.2758
-
-* **MolPhaseResult**
-    + ![LOC_Os04g55920.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g55920.1.png)
-    + ![LOC_Os04g55920.2](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g55920.2.png)
-    + ![LOC_Os04g55920.5](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g55920.5.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XPM8-F1.png)
 
 * **MolPhase score**
     + LOC_Os04g55920.1: 0.99842369

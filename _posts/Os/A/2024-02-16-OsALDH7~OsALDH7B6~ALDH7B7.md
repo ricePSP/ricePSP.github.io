@@ -25,17 +25,7 @@ tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative]
     + 97.34
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69P84/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69P84-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g26880.1: 0.0219
-    + LOC_Os09g26880.3: 0.1306
-    + LOC_Os09g26880.4: 0.1306
-
-* **MolPhaseResult**
-    + ![LOC_Os09g26880.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g26880.1.png)
-    + ![LOC_Os09g26880.3](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g26880.3.png)
-    + ![LOC_Os09g26880.4](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g26880.4.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69P84-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g26880.1: 0.19062079

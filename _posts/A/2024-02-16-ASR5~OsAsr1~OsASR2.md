@@ -21,13 +21,7 @@ tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, te
     + 52.51
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q53JF7/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q53JF7-F1.png))
-
-* **MolPhase score**
-    + LOC_Os11g06720.1: 0.1318
-
-* **MolPhaseResult**
-    + ![LOC_Os11g06720.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g06720.1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q53JF7-F1.png)
 
 * **MolPhase score**
     + LOC_Os11g06720.1: 0.11688380

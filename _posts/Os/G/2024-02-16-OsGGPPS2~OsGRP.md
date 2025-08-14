@@ -26,7 +26,6 @@ tags: [stroma]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/G/2024-02-16-OsGGPPS2~OsGRP.md
     + LOC_Os02g44780.1: 0.00156197
     + LOC_Os02g44780.2: 0.00156197
     + LOC_Os02g44780.3: 0.00156197
@@ -35,16 +34,6 @@ tags: [stroma]
     + ![LOC_Os02g44780.1](https://304243504.github.io/Pictures/LOC_Os02g/LOC_Os02g44780.1.png)
     + ![LOC_Os02g44780.2](https://304243504.github.io/Pictures/LOC_Os02g/LOC_Os02g44780.2.png)
     + ![LOC_Os02g44780.3](https://304243504.github.io/Pictures/LOC_Os02g/LOC_Os02g44780.3.png)
-=======
-    + LOC_Os02g44780.1: 0.0299
-    + LOC_Os02g44780.2: 0.0299
-    + LOC_Os02g44780.3: 0.0299
-
-* **MolPhaseResult**
-    + ![LOC_Os02g44780.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44780.1.png)
-    + ![LOC_Os02g44780.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44780.2.png)
-    + ![LOC_Os02g44780.3](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44780.3.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/G/2022-11-15-OsGGPPS2~OsGRP.md
 
 * **Publication**  
     + [Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa%5BTitle%5D), 2010, J Exp Bot.

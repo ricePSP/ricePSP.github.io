@@ -25,17 +25,7 @@ tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
     + 57.27
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JKI9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JKI9-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g48060.1: 0.8603
-    + LOC_Os01g48060.2: 0.842
-    + LOC_Os01g48060.3: 0.9137
-
-* **MolPhaseResult**
-    + ![LOC_Os01g48060.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g48060.1.png)
-    + ![LOC_Os01g48060.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g48060.2.png)
-    + ![LOC_Os01g48060.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g48060.3.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JKI9-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g48060.1: 0.97804409

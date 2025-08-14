@@ -29,21 +29,7 @@ tags: [stem, seed, flower, root, seed development]
     + 78.59
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P53683/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P53683-F1.png))
-
-* **MolPhase score**
-    + LOC_Os07g33110.1: 0.0565
-    + LOC_Os07g33110.2: 0.0565
-    + LOC_Os07g33110.3: 0.0565
-    + LOC_Os07g33110.4: 0.0565
-    + LOC_Os07g33110.5: 0.0103
-
-* **MolPhaseResult**
-    + ![LOC_Os07g33110.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g33110.1.png)
-    + ![LOC_Os07g33110.2](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g33110.2.png)
-    + ![LOC_Os07g33110.3](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g33110.3.png)
-    + ![LOC_Os07g33110.4](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g33110.4.png)
-    + ![LOC_Os07g33110.5](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g33110.5.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P53683-F1.png)
 
 * **MolPhase score**
     + LOC_Os07g33110.1: 0.99981611

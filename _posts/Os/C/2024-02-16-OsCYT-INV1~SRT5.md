@@ -23,15 +23,7 @@ tags: [growth, root development, root]
     + 84.59
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69T31/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T31-F1.png))
-
-* **MolPhase score**
-    + LOC_Os02g34560.1: 0.0204
-    + LOC_Os02g34560.2: 0.03
-
-* **MolPhaseResult**
-    + ![LOC_Os02g34560.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g34560.1.png)
-    + ![LOC_Os02g34560.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g34560.2.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T31-F1.png)
 
 * **MolPhase score**
     + LOC_Os02g34560.1: 0.94617062

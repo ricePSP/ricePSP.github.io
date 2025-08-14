@@ -24,21 +24,12 @@ tags: [transcription factor, temperature, stress]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/H/2024-02-16-OsHSFA2d~OsHSF7.md
     + LOC_Os03g06630.1: 0.91752970
     + LOC_Os03g06630.2: 0.98334389
 
 * **MolPhase Result**
     + ![LOC_Os03g06630.1](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g06630.1.png)
     + ![LOC_Os03g06630.2](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g06630.2.png)
-=======
-    + LOC_Os03g06630.1: 0.1151
-    + LOC_Os03g06630.2: 0.2167
-
-* **MolPhaseResult**
-    + ![LOC_Os03g06630.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g06630.1.png)
-    + ![LOC_Os03g06630.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g06630.2.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/H/2022-11-15-OsHSFA2d~OsHSF7.md
 
 * **Publication**  
     + [OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor%5BTitle%5D), 2009, BMB reports.

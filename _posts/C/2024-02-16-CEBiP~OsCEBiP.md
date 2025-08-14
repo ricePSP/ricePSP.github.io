@@ -23,15 +23,7 @@ tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, diseas
     + 88.76
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H8C7/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H8C7-F1.png))
-
-* **MolPhase score**
-    + LOC_Os03g04110.1: 0.1333
-    + LOC_Os03g04110.2: 0.1174
-
-* **MolPhaseResult**
-    + ![LOC_Os03g04110.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g04110.1.png)
-    + ![LOC_Os03g04110.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g04110.2.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H8C7-F1.png)
 
 * **MolPhase score**
     + LOC_Os03g04110.1: 0.02367460

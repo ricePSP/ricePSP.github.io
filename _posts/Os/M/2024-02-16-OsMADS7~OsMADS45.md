@@ -23,15 +23,7 @@ tags: [stamen, flower, palea, floral, leaf, lemma, temperature, spikelet, stress
     + 78.74
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0J466/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0J466-F1.png))
-
-* **MolPhase score**
-    + LOC_Os08g41950.1: 0.0267
-    + LOC_Os08g41950.2: 0.2356
-
-* **MolPhaseResult**
-    + ![LOC_Os08g41950.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g41950.1.png)
-    + ![LOC_Os08g41950.2](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g41950.2.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0J466-F1.png)
 
 * **MolPhase score**
     + LOC_Os08g41950.1: 0.96691805

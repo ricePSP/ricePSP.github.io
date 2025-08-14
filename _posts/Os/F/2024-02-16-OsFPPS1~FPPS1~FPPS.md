@@ -21,13 +21,7 @@ tags: [chloroplast]
     + 93.35
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/O04882/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/E-O/AF-O04882-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g50760.1: 0.0314
-
-* **MolPhaseResult**
-    + ![LOC_Os01g50760.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g50760.1.png)
+    + ![image](https://ricepsp.github.io/images/E-O/AF-O04882-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g50760.1: 0.00038882

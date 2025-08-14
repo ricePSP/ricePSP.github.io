@@ -27,19 +27,7 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + 53.79
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JIC2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JIC2-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g59660.1: 0.8122
-    + LOC_Os01g59660.2: 0.8122
-    + LOC_Os01g59660.3: 0.5512
-    + LOC_Os01g59660.4: 0.6479
-
-* **MolPhaseResult**
-    + ![LOC_Os01g59660.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g59660.1.png)
-    + ![LOC_Os01g59660.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g59660.2.png)
-    + ![LOC_Os01g59660.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g59660.3.png)
-    + ![LOC_Os01g59660.4](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g59660.4.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JIC2-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g59660.1: 0.99303585

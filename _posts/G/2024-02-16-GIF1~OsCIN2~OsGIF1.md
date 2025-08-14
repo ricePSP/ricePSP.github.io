@@ -22,17 +22,10 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall, development, 
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/G/2024-02-16-GIF1~OsCIN2~OsGIF1.md
     + LOC_Os04g33740.1: 0.00129948
 
 * **MolPhase Result**
     + ![LOC_Os04g33740.1](https://304243504.github.io/Pictures/LOC_Os04g/LOC_Os04g33740.1.png)
-=======
-    + LOC_Os04g33740.1: 0.1588
-
-* **MolPhaseResult**
-    + ![LOC_Os04g33740.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g33740.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/G/2022-11-15-GIF1~OsCIN2~OsGIF1.md
 
 * **Publication**  
     + [Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication](http://www.ncbi.nlm.nih.gov/pubmed?term=Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication%5BTitle%5D), 2010, BMC Evol Biol.

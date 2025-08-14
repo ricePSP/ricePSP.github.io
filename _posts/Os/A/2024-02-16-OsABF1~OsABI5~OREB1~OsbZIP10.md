@@ -23,15 +23,7 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
     + 66.29
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JHF1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JHF1-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g64730.1: 0.2407
-    + LOC_Os01g64730.2: 0.5917
-
-* **MolPhaseResult**
-    + ![LOC_Os01g64730.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g64730.1.png)
-    + ![LOC_Os01g64730.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g64730.2.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JHF1-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g64730.1: 0.99405258

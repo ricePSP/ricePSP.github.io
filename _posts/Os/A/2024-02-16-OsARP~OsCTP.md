@@ -35,27 +35,7 @@ tags: [flower, photosynthesis, yield, salt tolerance, salt]
     + 88.04
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6K7C2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K7C2-F1.png))
-
-* **MolPhase score**
-    + LOC_Os02g26700.1: 0.0029
-    + LOC_Os02g26700.2: 0.0072
-    + LOC_Os02g26700.3: 0.008
-    + LOC_Os02g26700.4: 0.0048
-    + LOC_Os02g26700.6: 0.0074
-    + LOC_Os02g26700.7: 0.0174
-    + LOC_Os02g26700.8: 0.0119
-    + LOC_Os02g26700.9: 0.0186
-
-* **MolPhaseResult**
-    + ![LOC_Os02g26700.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.1.png)
-    + ![LOC_Os02g26700.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.2.png)
-    + ![LOC_Os02g26700.3](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.3.png)
-    + ![LOC_Os02g26700.4](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.4.png)
-    + ![LOC_Os02g26700.6](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.6.png)
-    + ![LOC_Os02g26700.7](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.7.png)
-    + ![LOC_Os02g26700.8](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.8.png)
-    + ![LOC_Os02g26700.9](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g26700.9.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K7C2-F1.png)
 
 * **MolPhase score**
     + LOC_Os02g26700.1: 0.00135165

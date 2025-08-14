@@ -22,17 +22,10 @@ tags: [actin protein]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/A/2024-02-16-OsACT1~OsActin-1.md
     + LOC_Os03g50885.1: 0.05810635
 
 * **MolPhase Result**
     + ![LOC_Os03g50885.1](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g50885.1.png)
-=======
-    + LOC_Os03g50885.1: 0.0079
-
-* **MolPhaseResult**
-    + ![LOC_Os03g50885.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g50885.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/A/2022-11-15-OsACT1~OsActin-1.md
 
 * **Publication**  
     + [Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance](http://www.ncbi.nlm.nih.gov/pubmed?term=Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance%5BTitle%5D), 2014, Plant Physiol.

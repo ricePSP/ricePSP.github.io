@@ -21,13 +21,7 @@ tags: [growth, resistant, breeding, mitochondria, chloroplast]
     + 94.65
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6F6A2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6F6A2-F1.png))
-
-* **MolPhase score**
-    + LOC_Os10g08580.1: 0.0101
-
-* **MolPhaseResult**
-    + ![LOC_Os10g08580.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g08580.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6F6A2-F1.png)
 
 * **MolPhase score**
     + LOC_Os10g08580.1: 0.99522674

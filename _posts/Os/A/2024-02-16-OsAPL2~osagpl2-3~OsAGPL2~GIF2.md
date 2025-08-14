@@ -33,25 +33,7 @@ tags: [endosperm, temperature, seed development, starch, grain, seed, domesticat
     + 83.54
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7G065/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7G065-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g44220.1: 0.0195
-    + LOC_Os01g44220.2: 0.0195
-    + LOC_Os01g44220.3: 0.0195
-    + LOC_Os01g44220.4: 0.0195
-    + LOC_Os01g44220.5: 0.0195
-    + LOC_Os01g44220.6: 0.0195
-    + LOC_Os01g44220.7: 0.0289
-
-* **MolPhaseResult**
-    + ![LOC_Os01g44220.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.1.png)
-    + ![LOC_Os01g44220.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.2.png)
-    + ![LOC_Os01g44220.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.3.png)
-    + ![LOC_Os01g44220.4](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.4.png)
-    + ![LOC_Os01g44220.5](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.5.png)
-    + ![LOC_Os01g44220.6](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.6.png)
-    + ![LOC_Os01g44220.7](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g44220.7.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7G065-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g44220.1: 0.26893159

@@ -23,15 +23,7 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + 98.08
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P14656/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P14656-F1.png))
-
-* **MolPhase score**
-    + LOC_Os02g50240.1: 0.1548
-    + LOC_Os02g50240.2: 0.7618
-
-* **MolPhaseResult**
-    + ![LOC_Os02g50240.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g50240.1.png)
-    + ![LOC_Os02g50240.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g50240.2.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P14656-F1.png)
 
 * **MolPhase score**
     + LOC_Os02g50240.1: 0.00857452

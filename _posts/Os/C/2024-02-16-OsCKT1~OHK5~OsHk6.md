@@ -21,13 +21,7 @@ tags: [shoot, grain, cytokinin, spikelet, root, development, starch, photosynthe
     + 77.25
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A1A699/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/A/AF-A1A699-F1.png))
-
-* **MolPhase score**
-    + LOC_Os02g50480.1: 0.099
-
-* **MolPhaseResult**
-    + ![LOC_Os02g50480.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g50480.1.png)
+    + ![image](https://ricepsp.github.io/images/A/AF-A1A699-F1.png)
 
 * **MolPhase score**
     + LOC_Os02g50480.1: 0.97291326

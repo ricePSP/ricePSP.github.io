@@ -21,13 +21,7 @@ tags: [seedling, shoot]
     + 54.28
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QNE8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNE8-F1.png))
-
-* **MolPhase score**
-    + LOC_Os12g38051.1: 0.3826
-
-* **MolPhaseResult**
-    + ![LOC_Os12g38051.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g38051.1.png)
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNE8-F1.png)
 
 * **MolPhase score**
     + LOC_Os12g38051.1: 0.34302771

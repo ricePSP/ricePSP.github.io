@@ -21,13 +21,7 @@ tags: [spikelet number, yield, spikelet, panicle, sheath, biomass, leaf]
     + 87.51
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0DG35/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0DG35-F1.png))
-
-* **MolPhase score**
-    + LOC_Os05g48200.1: 0.4191
-
-* **MolPhaseResult**
-    + ![LOC_Os05g48200.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48200.1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0DG35-F1.png)
 
 * **MolPhase score**
     + LOC_Os05g48200.1: 0.61882084

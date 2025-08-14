@@ -21,13 +21,7 @@ tags: [homeostasis, temperature, disease resistance, abiotic stress, salt, phosp
     + 90.8
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10N20/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10N20-F1.png))
-
-* **MolPhase score**
-    + LOC_Os03g17700.1: 0.0042
-
-* **MolPhaseResult**
-    + ![LOC_Os03g17700.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g17700.1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10N20-F1.png)
 
 * **MolPhase score**
     + LOC_Os03g17700.1: 0.00081693

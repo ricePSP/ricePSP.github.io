@@ -22,17 +22,10 @@ tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/C/2024-02-16-COMT~OsCOMT.md
     + LOC_Os08g06100.1: 0.00022509
 
 * **MolPhase Result**
     + ![LOC_Os08g06100.1](https://304243504.github.io/Pictures/LOC_Os08g/LOC_Os08g06100.1.png)
-=======
-    + LOC_Os08g06100.1: 0.0248
-
-* **MolPhaseResult**
-    + ![LOC_Os08g06100.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g06100.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/C/2022-11-15-COMT~OsCOMT.md
 
 * **Publication**  
     + [OsCAD2 is the major CAD gene responsible for monolignol biosynthesis in rice culm](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCAD2 is the major CAD gene responsible for monolignol biosynthesis in rice culm%5BTitle%5D), 2012, Plant Cell Rep.

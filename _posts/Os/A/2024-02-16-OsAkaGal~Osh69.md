@@ -21,13 +21,7 @@ tags: [leaf, chloroplast, salicylic acid, jasmonic, jasmonic acid, senescence, l
     + 94.65
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8W2G5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W2G5-F1.png))
-
-* **MolPhase score**
-    + LOC_Os08g38710.1: 0.3764
-
-* **MolPhaseResult**
-    + ![LOC_Os08g38710.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g38710.1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W2G5-F1.png)
 
 * **MolPhase score**
     + LOC_Os08g38710.1: 0.04226649

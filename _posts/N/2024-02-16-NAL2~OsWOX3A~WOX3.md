@@ -23,15 +23,7 @@ tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, r
     + 68.16
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q33DK1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33DK1-F1.png))
-
-* **MolPhase score**
-    + LOC_Os11g01130.1: 0.74
-    + LOC_Os11g01130.2: 0.795
-
-* **MolPhaseResult**
-    + ![LOC_Os11g01130.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g01130.1.png)
-    + ![LOC_Os11g01130.2](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g01130.2.png)
+    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33DK1-F1.png)
 
 * **MolPhase score**
     + LOC_Os11g01130.1: 0.98888897

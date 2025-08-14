@@ -29,21 +29,7 @@ tags: [growth, seedling, salt, root]
     + 90.94
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JJQ7/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JJQ7-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g52500.1: 0.0988
-    + LOC_Os01g52500.2: 0.5056
-    + LOC_Os01g52500.3: 0.0207
-    + LOC_Os01g52500.4: 0.0048
-    + LOC_Os01g52500.5: 0.0048
-
-* **MolPhaseResult**
-    + ![LOC_Os01g52500.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g52500.1.png)
-    + ![LOC_Os01g52500.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g52500.2.png)
-    + ![LOC_Os01g52500.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g52500.3.png)
-    + ![LOC_Os01g52500.4](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g52500.4.png)
-    + ![LOC_Os01g52500.5](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g52500.5.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JJQ7-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g52500.1: 0.08518464

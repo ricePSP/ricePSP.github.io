@@ -21,13 +21,7 @@ tags: [salt, temperature, drought, transcription factor, abiotic stress, cold st
     + 70.97
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q64MA1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA1-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g35030.1: 0.2125
-
-* **MolPhaseResult**
-    + ![LOC_Os09g35030.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g35030.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA1-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g35030.1: 0.98899489

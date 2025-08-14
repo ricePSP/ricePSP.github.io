@@ -23,15 +23,7 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + 86.47
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q84UI5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q84UI5-F1.png))
-
-* **MolPhase score**
-    + LOC_Os06g06090.1: 0.0961
-    + LOC_Os06g06090.2: 0.0602
-
-* **MolPhaseResult**
-    + ![LOC_Os06g06090.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g06090.1.png)
-    + ![LOC_Os06g06090.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g06090.2.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q84UI5-F1.png)
 
 * **MolPhase score**
     + LOC_Os06g06090.1: 0.45994165

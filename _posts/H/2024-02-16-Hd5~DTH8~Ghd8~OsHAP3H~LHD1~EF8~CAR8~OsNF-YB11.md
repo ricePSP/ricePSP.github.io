@@ -21,13 +21,7 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
     + 57.68
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0J7P4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0J7P4-F1.png))
-
-* **MolPhase score**
-    + LOC_Os08g07740.1: 0.9755
-
-* **MolPhaseResult**
-    + ![LOC_Os08g07740.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g07740.1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0J7P4-F1.png)
 
 * **MolPhase score**
     + LOC_Os08g07740.1: 0.99841749

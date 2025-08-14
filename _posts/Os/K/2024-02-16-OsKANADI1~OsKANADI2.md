@@ -22,17 +22,10 @@ tags: [meristem, transcription factor]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/K/2024-02-16-OsKANADI1~OsKANADI2.md
     + LOC_Os02g46940.1: 0.99974209
 
 * **MolPhase Result**
     + ![LOC_Os02g46940.1](https://304243504.github.io/Pictures/LOC_Os02g/LOC_Os02g46940.1.png)
-=======
-    + LOC_Os02g46940.1: 0.9882
-
-* **MolPhaseResult**
-    + ![LOC_Os02g46940.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g46940.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/K/2022-11-15-OsKANADI1~OsKANADI2.md
 
 * **Publication**  
     + [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), 2013, Plant Physiol.

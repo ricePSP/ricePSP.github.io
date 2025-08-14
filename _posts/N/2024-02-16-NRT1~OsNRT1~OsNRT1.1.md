@@ -27,19 +27,7 @@ tags: [root hair, nitrate, transporter, root]
     + 82.97
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10PF9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10PF9-F1.png))
-
-* **MolPhase score**
-    + LOC_Os03g13274.1: 0.0201
-    + LOC_Os03g13274.2: 0.0201
-    + LOC_Os03g13274.3: 0.1397
-    + LOC_Os03g13274.4: 0.0201
-
-* **MolPhaseResult**
-    + ![LOC_Os03g13274.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g13274.1.png)
-    + ![LOC_Os03g13274.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g13274.2.png)
-    + ![LOC_Os03g13274.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g13274.3.png)
-    + ![LOC_Os03g13274.4](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g13274.4.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10PF9-F1.png)
 
 * **MolPhase score**
     + LOC_Os03g13274.1: 0.09922411

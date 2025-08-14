@@ -23,15 +23,7 @@ tags: [seed development, leaf, seed]
     + 87.01
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69T99/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T99-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g12660.1: 0.0093
-    + LOC_Os09g12660.2: 0.0093
-
-* **MolPhaseResult**
-    + ![LOC_Os09g12660.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g12660.1.png)
-    + ![LOC_Os09g12660.2](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g12660.2.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T99-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g12660.1: 0.03397461

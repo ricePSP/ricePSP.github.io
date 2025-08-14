@@ -21,13 +21,7 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + 64.8
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8GSI0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8GSI0-F1.png))
-
-* **MolPhase score**
-    + LOC_Os03g08310.1: 0.2653
-
-* **MolPhaseResult**
-    + ![LOC_Os03g08310.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g08310.1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8GSI0-F1.png)
 
 * **MolPhase score**
     + LOC_Os03g08310.1: 0.74513262

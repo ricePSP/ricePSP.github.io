@@ -21,13 +21,7 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
     + 78.95
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q9SAR1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9SAR1-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g32948.1: 0.3956
-
-* **MolPhaseResult**
-    + ![LOC_Os09g32948.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g32948.1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9SAR1-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g32948.1: 0.56825000

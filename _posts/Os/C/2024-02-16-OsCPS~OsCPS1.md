@@ -21,13 +21,7 @@ tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA defici
     + 82.19
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6ET36/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ET36-F1.png))
-
-* **MolPhase score**
-    + LOC_Os02g17780.1: 0.1872
-
-* **MolPhaseResult**
-    + ![LOC_Os02g17780.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g17780.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ET36-F1.png)
 
 * **MolPhase score**
     + LOC_Os02g17780.1: 0.99285781

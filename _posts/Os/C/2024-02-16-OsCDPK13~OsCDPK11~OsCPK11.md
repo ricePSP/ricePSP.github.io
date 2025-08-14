@@ -28,7 +28,6 @@ tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, droug
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/C/2024-02-16-OsCDPK13~OsCDPK11~OsCPK11.md
     + LOC_Os03g03660.1: 0.35964879
     + LOC_Os03g03660.2: 0.30848667
     + LOC_Os03g03660.3: 0.30848667
@@ -39,18 +38,6 @@ tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, droug
     + ![LOC_Os03g03660.2](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g03660.2.png)
     + ![LOC_Os03g03660.3](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g03660.3.png)
     + ![LOC_Os03g03660.4](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g03660.4.png)
-=======
-    + LOC_Os03g03660.1: 0.0071
-    + LOC_Os03g03660.2: 0.0053
-    + LOC_Os03g03660.3: 0.0053
-    + LOC_Os03g03660.4: 0.0053
-
-* **MolPhaseResult**
-    + ![LOC_Os03g03660.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03660.1.png)
-    + ![LOC_Os03g03660.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03660.2.png)
-    + ![LOC_Os03g03660.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03660.3.png)
-    + ![LOC_Os03g03660.4](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03660.4.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/C/2022-11-15-OsCDPK13~OsCDPK11~OsCPK11.md
 
 * **Publication**  
     + [OsCDPK13, a calcium-dependent protein kinase gene from rice, is induced in response to cold and gibberellin](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCDPK13, a calcium-dependent protein kinase gene from rice, is induced in response to cold and gibberellin%5BTitle%5D), 2003, Plant Physiology and Biochemistry.

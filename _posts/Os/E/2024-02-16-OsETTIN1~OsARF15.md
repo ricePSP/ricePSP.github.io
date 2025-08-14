@@ -31,23 +31,7 @@ tags:
     + 58.79
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8S985/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S985-F1.png))
-
-* **MolPhase score**
-    + LOC_Os05g48870.1: 0.4662
-    + LOC_Os05g48870.5: 0.3924
-    + LOC_Os05g48870.6: 0.3924
-    + LOC_Os05g48870.7: 0.3929
-    + LOC_Os05g48870.8: 0.3929
-    + LOC_Os05g48870.9: 0.3631
-
-* **MolPhaseResult**
-    + ![LOC_Os05g48870.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48870.1.png)
-    + ![LOC_Os05g48870.5](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48870.5.png)
-    + ![LOC_Os05g48870.6](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48870.6.png)
-    + ![LOC_Os05g48870.7](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48870.7.png)
-    + ![LOC_Os05g48870.8](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48870.8.png)
-    + ![LOC_Os05g48870.9](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g48870.9.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S985-F1.png)
 
 * **MolPhase score**
     + LOC_Os05g48870.1: 0.99955576

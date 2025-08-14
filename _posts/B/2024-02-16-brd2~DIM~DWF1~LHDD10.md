@@ -26,7 +26,6 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/B/2024-02-16-brd2~DIM~DWF1~LHDD10.md
     + LOC_Os10g25780.1: 0.00545128
     + LOC_Os10g25780.2: 0.00429074
     + LOC_Os10g25780.3: 0.00429074
@@ -35,16 +34,6 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
     + ![LOC_Os10g25780.1](https://304243504.github.io/Pictures/LOC_Os10g/LOC_Os10g25780.1.png)
     + ![LOC_Os10g25780.2](https://304243504.github.io/Pictures/LOC_Os10g/LOC_Os10g25780.2.png)
     + ![LOC_Os10g25780.3](https://304243504.github.io/Pictures/LOC_Os10g/LOC_Os10g25780.3.png)
-=======
-    + LOC_Os10g25780.1: 0.0176
-    + LOC_Os10g25780.2: 0.0059
-    + LOC_Os10g25780.3: 0.0059
-
-* **MolPhaseResult**
-    + ![LOC_Os10g25780.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g25780.1.png)
-    + ![LOC_Os10g25780.2](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g25780.2.png)
-    + ![LOC_Os10g25780.3](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g25780.3.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/B/2022-11-15-brd2~DIM~DWF1~LHDD10.md
 
 * **Publication**  
     + [The Rice brassinosteroid-deficient dwarf2 mutant, defective in the rice homolog of Arabidopsis DIMINUTO/DWARF1, is rescued by the endogenously accumulated alternative bioactive brassinosteroid, dolichosterone](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice brassinosteroid-deficient dwarf2 mutant, defective in the rice homolog of Arabidopsis DIMINUTO/DWARF1, is rescued by the endogenously accumulated alternative bioactive brassinosteroid, dolichosterone%5BTitle%5D), 2005, Plant Cell.

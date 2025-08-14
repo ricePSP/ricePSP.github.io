@@ -24,21 +24,12 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/P/2024-02-16-OsPIN1~REH1~PIN1b.md
     + LOC_Os02g50960.1: 0.99886888
     + LOC_Os02g50960.2: 0.99917715
 
 * **MolPhase Result**
     + ![LOC_Os02g50960.1](https://304243504.github.io/Pictures/LOC_Os02g/LOC_Os02g50960.1.png)
     + ![LOC_Os02g50960.2](https://304243504.github.io/Pictures/LOC_Os02g/LOC_Os02g50960.2.png)
-=======
-    + LOC_Os02g50960.1: 0.3835
-    + LOC_Os02g50960.2: 0.4986
-
-* **MolPhaseResult**
-    + ![LOC_Os02g50960.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g50960.1.png)
-    + ![LOC_Os02g50960.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g50960.2.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/P/2022-11-15-OsPIN1~REH1~PIN1b.md
 
 * **Publication**  
     + [OsRPK1, a novel leucine-rich repeat receptor-like kinase, negatively regulates polar auxin transport and root development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRPK1, a novel leucine-rich repeat receptor-like kinase, negatively regulates polar auxin transport and root development in rice%5BTitle%5D), 2014, Biochim Biophys Acta.

@@ -24,21 +24,12 @@ tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/F/2024-02-16-OsFMO~OsCOW1~NAL7.md
     + LOC_Os03g06654.1: 0.44830089
     + LOC_Os03g06654.2: 0.44830089
 
 * **MolPhase Result**
     + ![LOC_Os03g06654.1](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g06654.1.png)
     + ![LOC_Os03g06654.2](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g06654.2.png)
-=======
-    + LOC_Os03g06654.1: 0.0275
-    + LOC_Os03g06654.2: 0.0275
-
-* **MolPhaseResult**
-    + ![LOC_Os03g06654.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g06654.1.png)
-    + ![LOC_Os03g06654.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g06654.2.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/F/2022-11-15-OsFMO~OsCOW1~NAL7.md
 
 * **Publication**  
     + [NARROW LEAF 7 controls leaf shape mediated by auxin in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=NARROW LEAF 7 controls leaf shape mediated by auxin in rice%5BTitle%5D), 2008, Mol Genet Genomics.

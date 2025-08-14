@@ -21,13 +21,7 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
     + 62.28
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69P94/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69P94-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g26780.1: 0.7058
-
-* **MolPhaseResult**
-    + ![LOC_Os09g26780.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g26780.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69P94-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g26780.1: 0.98738968

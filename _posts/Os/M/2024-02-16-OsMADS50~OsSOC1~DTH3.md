@@ -24,13 +24,8 @@ tags: [heading date, floral, flower, flowering time, vegetative]
 * **MolPhase score**
     + LOC_Os03g03070.1: 0.7267151474952698
 
-<<<<<<< HEAD:_posts/Os/M/2024-02-16-OsMADS50~OsSOC1~DTH3.md
 * **MolPhase Result**
     + ![LOC_Os03g03070.1](https://304243504.github.io/Pictures/LOC_Os03g/LOC_Os03g03070.1.png)
-=======
-* **MolPhaseResult**
-    + ![LOC_Os03g03070.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03070.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/M/2022-11-15-OsMADS50~OsSOC1~DTH3.md
 
 * **Publication**  
     + [Heading date gene, dth3 controlled late flowering in O. Glaberrima Steud. by down-regulating Ehd1](http://www.ncbi.nlm.nih.gov/pubmed?term=Heading date gene, dth3 controlled late flowering in O. Glaberrima Steud. by down-regulating Ehd1%5BTitle%5D), 2011, Plant Cell Rep.

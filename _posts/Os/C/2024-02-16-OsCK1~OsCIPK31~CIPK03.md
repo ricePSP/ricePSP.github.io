@@ -35,27 +35,7 @@ tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, see
     + 79.13
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6X4A2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6X4A2-F1.png))
-
-* **MolPhase score**
-    + LOC_Os03g20380.1: 0.0348
-    + LOC_Os03g20380.2: 0.0427
-    + LOC_Os03g20380.3: 0.0078
-    + LOC_Os03g20380.4: 0.0342
-    + LOC_Os03g20380.5: 0.0342
-    + LOC_Os03g20380.6: 0.0342
-    + LOC_Os03g20380.7: 0.0171
-    + LOC_Os03g20380.8: 0.125
-
-* **MolPhaseResult**
-    + ![LOC_Os03g20380.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.1.png)
-    + ![LOC_Os03g20380.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.2.png)
-    + ![LOC_Os03g20380.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.3.png)
-    + ![LOC_Os03g20380.4](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.4.png)
-    + ![LOC_Os03g20380.5](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.5.png)
-    + ![LOC_Os03g20380.6](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.6.png)
-    + ![LOC_Os03g20380.7](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.7.png)
-    + ![LOC_Os03g20380.8](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20380.8.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6X4A2-F1.png)
 
 * **MolPhase score**
     + LOC_Os03g20380.1: 0.00228825

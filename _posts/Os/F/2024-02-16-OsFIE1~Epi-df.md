@@ -21,13 +21,7 @@ tags: [floral, dwarf, endosperm, seed, development, transcription factor, seed d
     + 82.81
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6ZJW8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ZJW8-F1.png))
-
-* **MolPhase score**
-    + LOC_Os08g04290.1: 0.1375
-
-* **MolPhaseResult**
-    + ![LOC_Os08g04290.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g04290.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ZJW8-F1.png)
 
 * **MolPhase score**
     + LOC_Os08g04290.1: 0.99561202

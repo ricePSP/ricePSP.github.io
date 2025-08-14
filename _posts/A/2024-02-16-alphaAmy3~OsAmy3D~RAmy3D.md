@@ -26,7 +26,6 @@ tags: [seed]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/A/2024-02-16-alphaAmy3~OsAmy3D~RAmy3D.md
     + LOC_Os08g36910.1: 0.04827206
     + LOC_Os08g36910.2: 0.00475092
     + LOC_Os08g36910.3: 0.01000827
@@ -35,16 +34,6 @@ tags: [seed]
     + ![LOC_Os08g36910.1](https://304243504.github.io/Pictures/LOC_Os08g/LOC_Os08g36910.1.png)
     + ![LOC_Os08g36910.2](https://304243504.github.io/Pictures/LOC_Os08g/LOC_Os08g36910.2.png)
     + ![LOC_Os08g36910.3](https://304243504.github.io/Pictures/LOC_Os08g/LOC_Os08g36910.3.png)
-=======
-    + LOC_Os08g36910.1: 0.036
-    + LOC_Os08g36910.2: 0.0043
-    + LOC_Os08g36910.3: 0.0524
-
-* **MolPhaseResult**
-    + ![LOC_Os08g36910.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g36910.1.png)
-    + ![LOC_Os08g36910.2](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g36910.2.png)
-    + ![LOC_Os08g36910.3](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g36910.3.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/A/2022-11-15-alphaAmy3~OsAmy3D~RAmy3D.md
 
 * **Publication**  
     + [Metabolic regulation of ?-amylase gene expression in transgenic cell cultures of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Metabolic regulation of ?-amylase gene expression in transgenic cell cultures of rice Oryza sativa L.%5BTitle%5D), 1993, Plant Mol Biol.

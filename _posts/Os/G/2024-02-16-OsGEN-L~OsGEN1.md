@@ -21,13 +21,7 @@ tags: [microspore, sterile, fertility, anther, pollen, sterility, development, m
     + 75.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q64MA3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA3-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g35000.1: 0.6607
-
-* **MolPhaseResult**
-    + ![LOC_Os09g35000.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g35000.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA3-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g35000.1: 0.99636936

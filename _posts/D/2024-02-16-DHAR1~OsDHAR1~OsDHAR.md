@@ -21,13 +21,7 @@ tags: [seedling, temperature]
     + 97.67
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q65XA0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q65XA0-F1.png))
-
-* **MolPhase score**
-    + LOC_Os05g02530.1: 0.035
-
-* **MolPhaseResult**
-    + ![LOC_Os05g02530.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g02530.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q65XA0-F1.png)
 
 * **MolPhase score**
     + LOC_Os05g02530.1: 0.81606382

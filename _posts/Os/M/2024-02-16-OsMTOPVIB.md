@@ -25,17 +25,7 @@ tags: [meiotic]
     + 76.14
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0D9M7/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0D9M7-F1.png))
-
-* **MolPhase score**
-    + LOC_Os06g49450.1: 0.2782
-    + LOC_Os06g49450.2: 0.109
-    + LOC_Os06g49450.3: 0.1133
-
-* **MolPhaseResult**
-    + ![LOC_Os06g49450.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g49450.1.png)
-    + ![LOC_Os06g49450.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g49450.2.png)
-    + ![LOC_Os06g49450.3](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g49450.3.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0D9M7-F1.png)
 
 * **MolPhase score**
     + LOC_Os06g49450.1: 0.94904547

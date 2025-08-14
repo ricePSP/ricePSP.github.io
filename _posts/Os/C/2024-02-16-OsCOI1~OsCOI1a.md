@@ -25,17 +25,7 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
     + 91.95
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6Y9P5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Y9P5-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g63420.1: 0.018
-    + LOC_Os01g63420.2: 0.0068
-    + LOC_Os01g63420.3: 0.0043
-
-* **MolPhaseResult**
-    + ![LOC_Os01g63420.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g63420.1.png)
-    + ![LOC_Os01g63420.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g63420.2.png)
-    + ![LOC_Os01g63420.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g63420.3.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Y9P5-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g63420.1: 0.81809324

@@ -26,15 +26,7 @@ tags: [grain weight, root, heading date, grain, root development, cell division,
     + 49.05
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q657D6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q657D6-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g38530.1: 0.9967
-    + LOC_Os01g38530.2: 0.9961
-
-* **MolPhaseResult**
-    + ![LOC_Os01g38530.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g38530.1.png)
-    + ![LOC_Os01g38530.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g38530.2.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q657D6-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g38530.1: 0.99980109

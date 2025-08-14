@@ -21,13 +21,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + 65.01
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XUV6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XUV6-F1.png))
-
-* **MolPhase score**
-    + LOC_Os04g38720.1: 0.0308
-
-* **MolPhaseResult**
-    + ![LOC_Os04g38720.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g38720.1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XUV6-F1.png)
 
 * **MolPhase score**
     + LOC_Os04g38720.1: 0.93227595

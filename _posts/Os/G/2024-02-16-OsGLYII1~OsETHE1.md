@@ -23,15 +23,7 @@ tags: [root, calcium, stress, stress response]
     + 86.15
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5QLQ5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5QLQ5-F1.png))
-
-* **MolPhase score**
-    + LOC_Os01g47690.1: 0.3128
-    + LOC_Os01g47690.2: 0.1713
-
-* **MolPhaseResult**
-    + ![LOC_Os01g47690.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47690.1.png)
-    + ![LOC_Os01g47690.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47690.2.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5QLQ5-F1.png)
 
 * **MolPhase score**
     + LOC_Os01g47690.1: 0.09762708

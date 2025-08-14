@@ -24,21 +24,12 @@ tags: [seed, development, map-based cloning, tolerance, cold tolerance, plant de
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/H/2024-02-16-OsHGGT~HGGT~SGD1.md
     + LOC_Os06g44840.1: 0.99338430
     + LOC_Os06g44840.2: 0.99585425
 
 * **MolPhase Result**
     + ![LOC_Os06g44840.1](https://304243504.github.io/Pictures/LOC_Os06g/LOC_Os06g44840.1.png)
     + ![LOC_Os06g44840.2](https://304243504.github.io/Pictures/LOC_Os06g/LOC_Os06g44840.2.png)
-=======
-    + LOC_Os06g44840.1: 0.0169
-    + LOC_Os06g44840.2: 0.0943
-
-* **MolPhaseResult**
-    + ![LOC_Os06g44840.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g44840.1.png)
-    + ![LOC_Os06g44840.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g44840.2.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/H/2022-11-15-OsHGGT~HGGT~SGD1.md
 
 * **Publication**  
     + [Metabolic redesign of vitamin E biosynthesis in plants for tocotrienol production and increased antioxidant content](http://www.ncbi.nlm.nih.gov/pubmed?term=Metabolic redesign of vitamin E biosynthesis in plants for tocotrienol production and increased antioxidant content%5BTitle%5D), 2003, Nat Biotechnol.

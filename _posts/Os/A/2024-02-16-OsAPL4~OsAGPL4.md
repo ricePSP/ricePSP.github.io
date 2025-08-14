@@ -22,14 +22,7 @@ tags: [leaf, seed, starch]
     + 83.96
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0D7I3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0D7I3-F1.png))
-
-* **MolPhase score**
-    + LOC_Os07g13960.1: 
-    + LOC_Os07g13980.1: 0.0068
-
-* **MolPhaseResult**
-    + ![LOC_Os07g13980.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g13980.1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0D7I3-F1.png)
 
 * **MolPhase score**
     + LOC_Os07g13960.1: 

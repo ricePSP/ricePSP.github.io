@@ -21,13 +21,7 @@ tags: [tiller, cytokinin, cytokinin response, development, map-based cloning, tr
     + 56.66
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XM13/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XM13-F1.png))
-
-* **MolPhase score**
-    + LOC_Os04g56780.1: 0.1613
-
-* **MolPhaseResult**
-    + ![LOC_Os04g56780.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g56780.1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XM13-F1.png)
 
 * **MolPhase score**
     + LOC_Os04g56780.1: 0.98158329

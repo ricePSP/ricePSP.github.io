@@ -21,13 +21,7 @@ tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, def
     + 81.37
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6Z4U4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z4U4-F1.png))
-
-* **MolPhase score**
-    + LOC_Os08g07760.1: 0.0789
-
-* **MolPhaseResult**
-    + ![LOC_Os08g07760.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g07760.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z4U4-F1.png)
 
 * **MolPhase score**
     + LOC_Os08g07760.1: 0.99690407

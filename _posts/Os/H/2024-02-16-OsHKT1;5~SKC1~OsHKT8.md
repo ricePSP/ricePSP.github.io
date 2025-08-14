@@ -22,17 +22,10 @@ tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoo
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/H/2024-02-16-OsHKT1;5~SKC1~OsHKT8.md
     + LOC_Os01g20160.1: 0.91880291
 
 * **MolPhase Result**
     + ![LOC_Os01g20160.1](https://304243504.github.io/Pictures/LOC_Os01g/LOC_Os01g20160.1.png)
-=======
-    + LOC_Os01g20160.1: 0.5582
-
-* **MolPhaseResult**
-    + ![LOC_Os01g20160.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g20160.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/H/2022-11-15-OsHKT1;5~SKC1~OsHKT8.md
 
 * **Publication**  
     + [QTLs for Na+ and K+ uptake of the shoots and roots controlling rice salt tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=QTLs for Na+ and K+ uptake of the shoots and roots controlling rice salt tolerance%5BTitle%5D), 2004, Theor Appl Genet.

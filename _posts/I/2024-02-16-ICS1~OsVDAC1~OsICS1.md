@@ -27,19 +27,7 @@ tags: [defense, defense response,  sa , SA]
     + 94.85
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6K548/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K548-F1.png))
-
-* **MolPhase score**
-    + LOC_Os09g19734.1: 0.4459
-    + LOC_Os09g19734.2: 0.5574
-    + LOC_Os09g19734.3: 0.0083
-    + LOC_Os09g19734.4: 0.009
-
-* **MolPhaseResult**
-    + ![LOC_Os09g19734.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.1.png)
-    + ![LOC_Os09g19734.2](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.2.png)
-    + ![LOC_Os09g19734.3](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.3.png)
-    + ![LOC_Os09g19734.4](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.4.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K548-F1.png)
 
 * **MolPhase score**
     + LOC_Os09g19734.1: 0.91234630

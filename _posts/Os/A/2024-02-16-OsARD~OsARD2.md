@@ -21,13 +21,7 @@ tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor
     + 92.94
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10RE5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10RE5-F1.png))
-
-* **MolPhase score**
-    + LOC_Os03g06620.1: 0.0031
-
-* **MolPhaseResult**
-    + ![LOC_Os03g06620.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g06620.1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10RE5-F1.png)
 
 * **MolPhase score**
     + LOC_Os03g06620.1: 0.05411819

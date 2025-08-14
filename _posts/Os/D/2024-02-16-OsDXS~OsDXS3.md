@@ -21,13 +21,7 @@ tags:
     + 85.68
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6YU51/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6YU51-F1.png))
-
-* **MolPhase score**
-    + LOC_Os07g09190.1: 0.7141
-
-* **MolPhaseResult**
-    + ![LOC_Os07g09190.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g09190.1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6YU51-F1.png)
 
 * **MolPhase score**
     + LOC_Os07g09190.1: 0.39746496

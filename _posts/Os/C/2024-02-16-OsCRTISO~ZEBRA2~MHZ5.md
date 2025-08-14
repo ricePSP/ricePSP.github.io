@@ -22,17 +22,10 @@ tags: [oxidative, photosynthesis,  ABA , ethylene, ABA, ethylene response, seedl
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/C/2024-02-16-OsCRTISO~ZEBRA2~MHZ5.md
     + LOC_Os11g36440.1: 0.05272287
 
 * **MolPhase Result**
     + ![LOC_Os11g36440.1](https://304243504.github.io/Pictures/LOC_Os11g/LOC_Os11g36440.1.png)
-=======
-    + LOC_Os11g36440.1: 0.1154
-
-* **MolPhaseResult**
-    + ![LOC_Os11g36440.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g36440.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/C/2022-11-15-OsCRTISO~ZEBRA2~MHZ5.md
 
 * **Publication**  
     + [ZEBRA2, encoding a carotenoid isomerase, is involved in photoprotection in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=ZEBRA2, encoding a carotenoid isomerase, is involved in photoprotection in rice%5BTitle%5D), 2011, Plant Mol Biol.

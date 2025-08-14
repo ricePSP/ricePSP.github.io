@@ -22,17 +22,10 @@ tags: [root, transcription factor, growth, jasmonate, disease, seedling, salinit
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/J/2024-02-16-JAmyb~OsJAmyb.md
     + LOC_Os11g45740.1: 0.74722886
 
 * **MolPhase Result**
     + ![LOC_Os11g45740.1](https://304243504.github.io/Pictures/LOC_Os11g/LOC_Os11g45740.1.png)
-=======
-    + LOC_Os11g45740.1: 0.0611
-
-* **MolPhaseResult**
-    + ![LOC_Os11g45740.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g45740.1.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/J/2022-11-15-JAmyb~OsJAmyb.md
 
 * **Publication**  
     + [Role of the rice transcription factor JAmyb in abiotic stress response](http://www.ncbi.nlm.nih.gov/pubmed?term=Role of the rice transcription factor JAmyb in abiotic stress response%5BTitle%5D), 2013, J Plant Res.

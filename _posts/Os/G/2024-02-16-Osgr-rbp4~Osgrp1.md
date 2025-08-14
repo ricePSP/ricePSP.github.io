@@ -21,13 +21,7 @@ tags: [temperature, cell elongation, root, leaf, cell wall, seedling, abiotic st
     + 63.97
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QLR2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QLR2-F1.png))
-
-* **MolPhase score**
-    + LOC_Os12g43600.1: 0.9957
-
-* **MolPhaseResult**
-    + ![LOC_Os12g43600.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g43600.1.png)
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QLR2-F1.png)
 
 * **MolPhase score**
     + LOC_Os12g43600.1: 0.99786001

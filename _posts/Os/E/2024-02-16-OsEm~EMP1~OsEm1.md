@@ -21,13 +21,7 @@ tags: [ ABA , drought, tolerance, abiotic stress, vegetative, drought tolerance,
     + 92.17
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P46520/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P46520-F1.png))
-
-* **MolPhase score**
-    + LOC_Os05g28210.1: 0.1722
-
-* **MolPhaseResult**
-    + ![LOC_Os05g28210.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g28210.1.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P46520-F1.png)
 
 * **MolPhase score**
     + LOC_Os05g28210.1: 0.82742309

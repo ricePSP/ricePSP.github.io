@@ -21,13 +21,7 @@ tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
     + 87.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H6H0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H6H0-F1.png))
-
-* **MolPhase score**
-    + LOC_Os08g45000.1: 0.0233
-
-* **MolPhaseResult**
-    + ![LOC_Os08g45000.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g45000.1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H6H0-F1.png)
 
 * **MolPhase score**
     + LOC_Os08g45000.1: 0.12203805

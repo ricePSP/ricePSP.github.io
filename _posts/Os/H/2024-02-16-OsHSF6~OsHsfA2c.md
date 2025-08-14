@@ -28,7 +28,6 @@ tags: [seed, transcription factor, root]
 
 
 * **MolPhase score**
-<<<<<<< HEAD:_posts/Os/H/2024-02-16-OsHSF6~OsHsfA2c.md
     + LOC_Os10g28340.1: 0.99400120
     + LOC_Os10g28340.2: 0.83093649
     + LOC_Os10g28340.3: 0.83093649
@@ -39,18 +38,6 @@ tags: [seed, transcription factor, root]
     + ![LOC_Os10g28340.2](https://304243504.github.io/Pictures/LOC_Os10g/LOC_Os10g28340.2.png)
     + ![LOC_Os10g28340.3](https://304243504.github.io/Pictures/LOC_Os10g/LOC_Os10g28340.3.png)
     + ![LOC_Os10g28340.5](https://304243504.github.io/Pictures/LOC_Os10g/LOC_Os10g28340.5.png)
-=======
-    + LOC_Os10g28340.1: 0.5019
-    + LOC_Os10g28340.2: 0.3707
-    + LOC_Os10g28340.3: 0.3707
-    + LOC_Os10g28340.5: 0.5019
-
-* **MolPhaseResult**
-    + ![LOC_Os10g28340.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.1.png)
-    + ![LOC_Os10g28340.2](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.2.png)
-    + ![LOC_Os10g28340.3](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.3.png)
-    + ![LOC_Os10g28340.5](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.5.png)
->>>>>>> 0ba9e656d2567e330407a5f1b1d54d48f23437ee:_posts/Os/H/2022-11-15-OsHSF6~OsHsfA2c.md
 
 * **Publication**  
     + [Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L%5BTitle%5D), 2005, J Biochem Mol Biol.

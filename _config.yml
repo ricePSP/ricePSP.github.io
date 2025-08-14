@@ -1,0 +1,10 @@
+markdown: kramdown
+permalink: /:title/
+url: https://ricepsp.github.io/
+name: ricePSP
+author: Weizhi Ouyang
+email: wzouyang2@126.com 
+highlighter: rouge
+safe: true
+paginate: 20
+about: "A comprehensive database of rice phase separation-associated proteins"

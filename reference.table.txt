@@ -1,0 +1,103 @@
+1.A distant coilin homologue is required for the formation of Cajal bodies in Arabidopsis
+2.A generic approach to study the kinetics of liquid–liquid phase separation under near-native conditions
+3.A phase-separated nuclear GBPL circuit controls immunity in plants
+4.A photoregulatory mechanism of the circadian clock in Arabidopsis
+5.A Prion-based Thermosensor in Plants
+6.A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis
+7.A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation
+8.AFP is a novel negative regulator of ABA signaling that promotes ABI5 protein degradation
+9.ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules
+10.An ARGONAUTE4-containing nuclear processing center colocalized with Cajal bodies in Arabidopsis thaliana
+11.Arabidopsis AUTOPHAGY-RELATED3 (ATG3) facilitates the liquid–liquid phase separation of ATG8e to promote autophagy
+12.Arabidopsis FLL2 promotes liquid–liquid phase separation of polyadenylation complexes
+13.Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock
+14.Arabidopsis N6-methyladenosine reader CPSF30-L recognizes FUE signal to control polyadenylation site choice in liquid-like nuclear body
+15.Biomolecular condensates in photosynthesis and metabolism
+16.Co-condensation with photoexcited Cryptochromes facilitates MAC3A to positively control hypocotyl growth in Arabidopsis
+17.Cold induction of nuclear FRIGIDA condensation in Arabidopsis
+18.Cold-induced Arabidopsis FRIGIDA nuclear condensates for FLC repression
+19.Complementation of Hyponastic Leaves1 by Double-strand RNA Binding Domains of Dicer-like 1 in Nuclear Dicing Bodies
+20.Condensation of STM is critical for shoot meristem maintenance and salt tolerance in Arabidopsis
+21.Coordinated regulation of Arabidopsis microRNA biogenesis and red light signaling through Dicer-like 1 and phytochrome-interacting factor 4
+22.Cytoplasmic Arabidopsis AGO7 accumulates in membrane-associated siRNA bodies and is required for ta-siRNA biogenesis
+23.DEAD-box helicases modulate dicing body formation in Arabidopsis
+24.Depletion of Arabidopsis SC35 and SC35-like serine/arginine-rich proteins affects the transcription and splicing of a subset of genes
+25.Dicing Bodies
+26.DIX Domain Polymerization Drives Assembly of Plant Cell Polarity Complexes
+27.Dynamic regulation of ARGONAUTE4 within multiple nuclear bodies in Arabidopsis thaliana
+28.ELF4 regulates GIGANTEA chromatin access through subnuclear sequestration
+29.Emerging roles for phase separation in plants
+30.Extracellular pectin-RALF phase separation mediates FERONIA global signaling function
+31.FERONIA coordinates plant growth and salt tolerance via the phosphorylation of phyB
+32.Formation of NPR1 Condensates Promotes Cell Survival during the Plant Immune Response
+33.GBPL3 localizes to the nuclear pore complex and functionally connects the nuclear basket with the nucleoskeleton in plants
+34.HEI10 is subject to phase separation and mediates RPA1a degradation during meiotic interference-sensitive crossover formation
+35.Heterotypic transcriptional condensates formed by prion-like paralogous proteins canalize flowering transition in tomato
+36.Histone H2B.8 compacts flowering plant sperm via chromatin phase separation
+37.Histone Methyltransferase SUVR2 Promotes the DSB Repair via Chromatin Remodeling and Liquid–Liquid Phase Separation
+38.HOP family plays a major role in long-term acquired thermotolerance in Arabidopsis
+39.Identification of nuclear dicing bodies containing proteins for microRNA biogenesis in living Arabidopsis plants
+40.Increasing the resilience of plant immunity to a warming climate
+41.Integration of light and temperature sensing by liquid-liquid phase separation of phytochrome B
+42.Intrinsically disordered proteins SAID1/2 condensate on SERRATE for dual inhibition of miRNA biogenesis in Arabidopsis
+43.Large-scale identification of potential phase separation proteins from plants using a cell-free system
+44.Light-induced LLPS of the CRY2/SPA1/FIO1 complex regulating mRNA methylation and chlorophyll homeostasis in Arabidopsis
+45.Liquid-liquid phase separation as a major mechanism of plant abiotic stress sensing and responses
+46.Liquid–Liquid Phase Separation in Crowded Environments
+47.Liquid–liquid phase separation in plants: Advances and perspectives from model species to crops
+48.Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in Arabidopsis
+49.Liquid–Liquid Phase Transition as a New Means of Protein Targeting in Chloroplasts
+50.Liquid-Liquid Phase Transition Drives Intrachloroplast Cargo Sorting
+51.Luminidependens (LD) is an Arabidopsis protein with prion behavior
+52.m6A reader ECT1 drives mRNA sequestration to dampen SA-dependent stress responses in Arabidopsis
+53.m6A RNA demethylase AtALKBH9B promotes mobilization of a heat-activated long terminal repeat retrotransposon in Arabidopsis
+54.Mechanism of DNA-induced phase separation for transcriptional repressor VRN1
+55.Microtubule-associated phase separation of MIDD1 tunes cell wall spacing in xylem vessels in Arabidopsis thaliana
+56.Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation
+57.Nucleo-cytoplasmic partitioning of ARF proteins controls auxin responses in Arabidopsis thaliana
+58.Nup98 FG domains from diverse species spontaneously phase-separate into particles with nuclear pore-like permselectivity
+59.Organization out of disorder: liquid–liquid phase separation in plants
+60.Peptidyl-prolyl isomerase Cyclophilin71 promotes SERRATE phase separation and miRNA processing in Arabidopsis
+61.Phase separation and molecular ordering of the prion-like domain of the Arabidopsis thermosensory protein EARLY FLOWERING 3
+62.Phase separation in genome organization across evolution
+63.Phase separation in plants: new insights into cellular compartmentalization
+64.Phase separation of a plant virus movement protein and cellular factors support virus-host interactions
+65.Phase separation of Arabidopsis EMB1579 controls transcription, mRNA splicing, and development
+66.Phase separation of chromatin and small RNA pathways in plants
+67.Phase separation of HRLP regulates flowering time in Arabidopsis
+68.Phase separation of nuclear pore complex facilitates selective nuclear transport to regulate plant defense against pathogen and pest invasion
+69.Phase separation of SERRATE drives dicing body assembly and promotes miRNA processing in Arabidopsis
+70.Phase separation of S-RNase promotes self-incompatibility in Petunia hybrida
+71.Phenolic acid-induced phase separation and translation inhibition mediate plant interspecific competition
+72.Photobodies in light signaling
+73.Photoexcited cryptochromes interact with ADA2b and SMC5 to promote the repair of DNA double-strand breaks in Arabidopsis
+74.Phytochrome B photobodies are comprised of phytochrome B and its primary and secondary interacting proteins
+75.Phytochrome nuclear body: An emerging model to study interphase nuclear dynamics and signaling
+76.Phytochromes enhance SOS2-mediated PIF1 and PIF3 phosphorylation and degradation to promote Arabidopsis salt tolerance
+77.Pi-Pi contacts are an overlooked protein feature relevant to phase separation
+78.Plant HP1 protein ADCP1 links multivalent H3K9 methylation readout to heterochromatin formation
+79.Plant nuclear bodies
+80.Pollen Cell Wall Patterns Form from Modulated Phases
+81.Proximity editing to identify RNAs in phase-separated RNA binding protein condensates
+82.PRR5 regulates phosphorylation, nuclear import and subnuclear localization of TOC1 in the Arabidopsis circadian clock
+83.Ribosome stalling and SGS3 phase separation prime the epigenetic silencing of transposons
+84.Rubisco condensate formation by CcmM in β-carboxysome biogenesis
+85.Sensory circuitry controls cytosolic calcium-mediated phytochrome B phototransduction
+86.Sequence determinants of in cell condensate morphology, dynamics, and oligomerization as measured by number and brightness analysis
+87.SGS3 and RDR6 interact and colocalize in cytoplasmic SGS3/RDR6-bodies
+88.Subcellular Localization of Seed-Expressed LEA_4 Proteins Reveals Liquid-Liquid Phase Separation for LEA9 and for LEA48 Homo- and LEA42-LEA48 Heterodimers
+89.TANDEM ZINC-FINGER/PLUS3 regulates phytochrome B abundance and signaling to fine-tune hypocotyl growth
+90.The dual-action mechanism of Arabidopsis cryptochromes
+91.The emerging role of biomolecular condensates in plant immunity
+92.The eukaryotic CO2-concentrating organelle Is liquid-like and exhibits dynamic reorganization
+93.The intrinsically disordered protein CARP9 bridges HYL1 to AGO1 in the nucleus to promote microRNA activity
+94.The intrinsically disordered region from PP2C phosphatases functions as a conserved CO2 sensor
+95.The MBD-ACD methylation reader complex recruits MICRORCHIDIA6 to regulate rRNA gene expression in Arabidopsis
+96.The P-body component DECAPPING5 and the floral repressor SISTER OF FCA regulate FLOWERING LOCUS C transcription in Arabidopsis
+97.The phase separation underlying the pyrenoid-based microalgal Rubisco supercharger
+98.The PIF1/PIF3-MED25-HDA19 transcriptional repression complex regulates phytochrome signaling in Arabidopsis
+99.The pyrenoidal linker protein EPYC1 phase separates with hybrid Arabidopsis–Chlamydomonas Rubisco through interactions with the algal Rubisco small subunit
+100.The Roles of Arabidopsis CDF2 in Transcriptional and Posttranscriptional Regulation of Primary MicroRNAs
+101.The structural basis of Rubisco phase separation in the pyrenoid
+102.Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis
+103.Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation

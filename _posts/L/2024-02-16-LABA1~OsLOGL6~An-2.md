@@ -21,13 +21,7 @@ tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, gra
     + 83.12
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JBP5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JBP5-F1.png))
-
-* **MolPhase score**
-    + LOC_Os04g43840.1: 0.0064
-
-* **MolPhaseResult**
-    + ![LOC_Os04g43840.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g43840.1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JBP5-F1.png)
 
 * **MolPhase score**
     + LOC_Os04g43840.1: 0.00162333

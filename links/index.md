@@ -13,4 +13,4 @@ comments: yes
 - **GitHub**: <a href="https://github.com/wzouyang" target="_blank">https://github.com/wzouyang</a>  
 - **email**: wzouyang2@126.com
 
-__Please cite our <a href="https://doi.org/10.1186/s13059-025-03842-w" target="_blank">database</a> (https://doi.org/10.1186/s13059-025-03842-w) if you use it in your study.__  
+__Please cite our <a href="https://doi.org/10.1186/s13059-025-03842-w" target="_blank">database</a> (Gao et al 2025 Genome Biology) if you use it in your study.__  

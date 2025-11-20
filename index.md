@@ -21,6 +21,10 @@ __A comprehensive database of rice phase separation-associated proteins__
 * Help manual for ricePSP [[Download↓]](https://ricepsp.github.io/Help_manual.pdf)  
 * Contact us:  wzouyang2@126.com
 
+<br>
+Reference
+Runxin Gao, Minrong Guo, Shiping Luan, Weizhi Ouyang, Xingwang Li. ricePSP: a database of rice phase separation-associated proteins. 2025, 26:390. doi: [[https://doi.org/10.1186/s13059-025-03842-w]](https://doi.org/10.1186/s13059-025-03842-w)
+
 
 <br>
 * __Search this site using Bing:__
